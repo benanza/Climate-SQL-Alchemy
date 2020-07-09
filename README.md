@@ -2,9 +2,9 @@
 
 ### Project Premise: I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, I need to do some climate analysis on the area.
 
-1. Use SQLAlchemy create_engine to connect to your sqlite database.
+- Use SQLAlchemy create_engine to connect to sqlite database
 
-2. Use SQLAlchemy automap_base() to reflect your tables into classes and save a reference to those classes called Station and Measurement.
+- Reflect tables into classes and save a reference to those classes called Station and Measurement
 
 
 #### Precipitation Analysis
